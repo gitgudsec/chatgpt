@@ -12,10 +12,16 @@ function App() {
         </div>
       </aside>
       <section className="chatbox">
+      <div className="chat-log">
+
+      </div>
+
         <div className='chat-input-holder'>
           <textarea
-          className='chat-input'
-          placeholder='Type message here'></textarea>
+          rows="1"
+          className='chat-input-textarea'
+          placeholder='...'></textarea>
+        
         </div>
 
       </section>
