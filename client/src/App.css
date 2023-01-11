@@ -2,7 +2,7 @@
   text-align: center;
   display: flex;
   background-color: #404846;
-  color: #00ffa8;
+  color: #ffffff;
   position:absolute;
   top:0;
   bottom:0;
@@ -14,6 +14,12 @@
   width: 260px; 
   padding: 10px;
   background-color: #343736;
+}
+
+.side-menu-button {
+  padding:15px;
+  border:1px solid white;
+  border-radius: 5px;
 }
 
 .chatbox {
