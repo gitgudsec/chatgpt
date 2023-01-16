@@ -86,6 +86,10 @@
   color: #61dafb;
 }
 
+.chat-log {
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
