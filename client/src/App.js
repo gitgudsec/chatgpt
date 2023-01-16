@@ -13,7 +13,15 @@ function App() {
       </aside>
       <section className="chatbox">
       <div className="chat-log">
+        <div className="chat-message">
+          <div className="avatar">
 
+          </div>
+          <div className="message">
+          Sup poes
+          </div>
+
+        </div>
       </div>
 
         <div className='chat-input-holder'>
