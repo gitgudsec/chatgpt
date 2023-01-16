@@ -88,9 +88,6 @@
 
 .chat-log {
   padding: 24px;
-  overflow-y:scroll;
-  height:100%;
-
 }
 
 .chat-message {
