@@ -94,6 +94,7 @@
 
 .chat-message {
   padding: 12px;
+  padding: left 40px right 40px; ; 
 }
 
 .avatar {
