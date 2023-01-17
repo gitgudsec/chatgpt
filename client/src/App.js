@@ -15,7 +15,7 @@ function App() {
       <div className="chat-log">
         <div className="chat-message">
           <div className="avatar">
-
+          {/* <img src='src/pic.png'></img> */}
           </div>
           <div className="message">
           Sup poes
