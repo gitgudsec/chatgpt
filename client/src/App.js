@@ -12,20 +12,20 @@ function App() {
         </div>
       </aside>
       <section className="chatbox">
-      <div className="chat-log">
-      <div className="chat-message">
-        <div className="chat-message-center">
+        <div className="chat-log">
+          <div className="chat-message">
+            <div className="chat-message-center">
 
-        <div className="avatar">
-          {/* <img src='src/pic.png'></img> */}
-          </div>
-          <div className="message">
-          Sup poes
-          </div>
+              <div className="avatar">
+          
+              </div>
+              <div className="message">
+              Sup poes
+             </div>
     
+            </div>
+          </div>
         </div>
-        </div>
-      </div>
 
         <div className='chat-input-holder'>
           <textarea

@@ -98,11 +98,10 @@
 
 .chat-message-center {
   max-width:480px;
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  padding: 12px;
-
+  margin-left:auto;
+  margin-right:auto;
+  display:flex;
+  padding:12px;
   padding-left: 24px;
   padding-right: 24px; 
 }
