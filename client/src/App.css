@@ -87,12 +87,12 @@
 }
 
 .chat-log {
-  padding: 24px;
+
   text-align: left;
   display: flex; 
 }
 
-.chat-message {
+.chat-message.chatgpt {
   background-color: #989a99;
 }
 

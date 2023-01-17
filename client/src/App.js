@@ -13,7 +13,7 @@ function App() {
       </aside>
       <section className="chatbox">
         <div className="chat-log">
-          <div className="chat-message">
+          <div className="chat-message ">
             <div className="chat-message-center">
 
               <div className="avatar">
@@ -21,6 +21,18 @@ function App() {
               </div>
               <div className="message">
               Sup poes
+             </div>
+    
+            </div>
+          </div>
+          <div className="chat-message chatgpt ">
+            <div className="chat-message-center">
+
+              <div className="avatar">
+          
+              </div>
+              <div className="message">
+              This is where the Ai writes
              </div>
     
             </div>
