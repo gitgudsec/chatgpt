@@ -94,7 +94,9 @@
 
 .chat-message {
   padding: 12px;
-  padding: left 40px right 40px; ; 
+  display: flex;
+  padding-left: 40px;
+  padding-right: 40px; 
 }
 
 .avatar {
@@ -105,7 +107,8 @@
 }
 
 .message {
-  /* nothing here for now */
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 @keyframes App-logo-spin {
