@@ -92,11 +92,19 @@
   display: flex; 
 }
 
-.chat-message {
-  padding: 12px;
+/* .chat-message {
+
+} */
+
+.chat-message-center {
+  max-width:480px;
+  margin-left: auto;
+  margin-right: auto;
   display: flex;
-  padding-left: 40px;
-  padding-right: 40px; 
+  padding: 12px;
+ 
+  padding-left: 24px;
+  padding-right: 24px; 
 }
 
 .avatar {
